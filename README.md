@@ -1,4 +1,4 @@
-# Cybersecurity-task-3-
+# Cybersecurity-task-3
 Cybersecurity_Task_3
 Task 3 – Web Application Security Task
 
